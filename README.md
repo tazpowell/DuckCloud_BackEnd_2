@@ -1,9 +1,9 @@
 # DuckCloud File Management System
 ### A web application by SquishyDucks
-- Deployed Front-End: https://squishyducks.github.io/DuckCloud_FrontEnd/
-- Deployed Back-End: https://serene-eyrie-91568.herokuapp.com/
-- Front-End Repo: https://github.com/SquishyDucks/DuckCloud_FrontEnd
-- Back-End Repo: https://github.com/SquishyDucks/DuckCloud_BackEnd
+- Deployed Front-End: https://tazukopowell.com/DuckCloud_FrontEnd_2
+- Deployed Back-End: https://glacial-escarpment-85123.herokuapp.com
+- Front-End Repo: https://github.com/tazpowell/DuckCloud_FrontEnd_2
+- Back-End Repo: https://github.com/tazpowell/DuckCloud_BackEnd_2
 
 DuckCloud is a file management system allowing users to upload, store, and retrieve files. The application displays meta-data related to the files including title, creation date/time, and update date/time. Users can create, update, and delete files they own and download/view any file uploaded by any user.
 
